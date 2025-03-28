@@ -1,0 +1,33 @@
+Copyright (c) 2025 Anshul Bhau
+
+All rights reserved.
+
+This software and associated documentation files (the "Software") are provided for personal and non-commercial use only. By accessing or using this Software, you agree to the following terms:
+
+1. Permissions
+
+You may view, download, and use this Software for personal, educational, or internal business purposes only.
+
+You may not modify, distribute, sublicense, or sell copies of the Software without prior written permission from the copyright holder.
+
+2. Restrictions
+
+No Commercial Use – You may not use this Software for commercial purposes without obtaining explicit permission.
+
+No Modifications or Derivative Works – You may not alter, transform, or build upon this Software.
+
+No Redistribution – You may not distribute or share this Software in whole or in part.
+
+No Unauthorized Use – Any unauthorized use of this Software is strictly prohibited.
+
+3. Liability & Warranty Disclaimer
+
+This Software is provided "as is," without any warranty of any kind, express or implied. The copyright holder shall not be held liable for any damages resulting from the use or inability to use the Software.
+
+4. Permission Requests
+
+For commercial use, modifications, or distribution requests, please contact anshulbhau1@gmail.com.
+
+By using this Software, you agree to abide by these terms. Unauthorized use or violation of these terms may result in legal action.
+
+Anshul Bhau
